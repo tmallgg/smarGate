@@ -46,7 +46,7 @@
 	* 多级任务队列 <br>
 	* ...<br>
 * 附：交互示意图<br>
-![operator](https://github.com/lazy-luo/smarGate/blob/master/res/smarGateArch.png)<br>
+![operator](https://github.com/tmallgg/smarGate/blob/master/res/smarGateArch.png)<br>
 
 ## smarGate有什么主要功能？<br>
 * 支持代理穿透<br>
