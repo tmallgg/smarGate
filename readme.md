@@ -1,4 +1,4 @@
-# 中文 | [English](https://github.com/lazy-luo/smarGate/blob/master/README_en.md)
+# 中文 | [English](https://github.com/tmallgg/smarGate/blob/master/README_en.md)
 # 快速概览
 * 平台适配，支持linux、windows、macos、android、（tob，小型机：hp-unix、solaris、AIX）<br>
 * cpu架构，支持x86、arm、mips（tob：alpha、PowerPC、SPRAC）<br>
@@ -151,11 +151,11 @@
 >> 2、设置 -> 无线及网络 -> 移动网络 -> 高级 ->始终保持数据连接 "允许"<br>
 
 * Q：如何下载安装 android app？<br>
-  >> 1、用android手机浏览器打开 https://github.com/lazy-luo/smarGate/raw/master/app-release.apk <br>
+  >> 1、用android手机浏览器打开 https://github.com/tmallgg/smarGate/raw/master/app-release.apk <br>
   >> 2、弹出框中下载安装 <br>
   >> 网盘链接为最新测试版本，github上版本稍有滞后 <br>
   >> 附网盘下载地址： https://pan.baidu.com/s/14Iq60kxHW711NVoCVKWySg <br>
-  >> gitee地址（速度快些，不会有图片无法显示问题）：https://gitee.com/lazy-luo/smarGate <br>
+  >> gitee地址（速度快些，不会有图片无法显示问题）：https://gitee.com/tmallgg/smarGate <br>
   >> 如有需要请添加微信：ws_lzy008 注明：smarGate ，视情况组建技术讨论群<br>
 * Q：需要访问家中局域网多台设备，是否每台都需要安装服务端？<br>
    >> A：不需要，只需选择任意一台设备安装服务端即可。<br>
