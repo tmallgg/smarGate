@@ -111,10 +111,10 @@
 <a href=https://github.com/tmallgg/smarGate/wiki/常用服务穿透配置>【常用服务配置】</a><br>
 ### 1、下载android app（app-release.apk包含客户端和服务端）支持armv7及arm64 cpu架构<br>
 ### 2、注册新用户（邀请码必填，为数字，可任意填。ps：如果必填信息未填完整,或包含中文字符，会注册失败）<br>
-![login](https://github.com/lazy-luo/smarGate/blob/master/res/login.png)<br>
-![register](https://github.com/lazy-luo/smarGate/blob/master/res/register.png)<br>
+![login](https://github.com/tmallgg/smarGate/blob/master/res/login.png)<br>
+![register](https://github.com/tmallgg/smarGate/blob/master/res/register.png)<br>
 ### 3、注册成功后请务必记住返回的服务ID(N) 【重要】：注册成功后务必在1小时内完成首次登录<br>
-![register result](https://github.com/lazy-luo/smarGate/blob/master/res/registerok.png)<br>
+![register result](https://github.com/tmallgg/smarGate/blob/master/res/registerok.png)<br>
 ### 4、下载内网服务器适合的服务端版本（目前支持linux-x86-32/64，windows，及linux-arm【树莓派、群晖】,另：Android app自带服务端模式）<br>
 ### 5、解压服务端压缩包，修改配置文件(conf-proxy.xml):<br>
 ```
@@ -134,11 +134,11 @@
 * windows下执行命令：proxy_server.exe -i1000 -o1000 -w8 <br>
 * Android 手机/设备：运行app -〉编辑模式下，配置服务端信息 -〉打开“服务端”开关 -〉重启app <br>
 ### 7、使用注册时的用户名/密码登陆手机客户端<br>
-![operator](https://github.com/lazy-luo/smarGate/blob/master/res/oper1.png)<br>
+![operator](https://github.com/tmallgg/smarGate/blob/master/res/oper1.png)<br>
 ### 8、在客户端中可以看到上线的服务端，可以在客户端上定义端口反弹规则<br>
-![operator](https://github.com/lazy-luo/smarGate/blob/master/res/oper2.png)<br>
+![operator](https://github.com/tmallgg/smarGate/blob/master/res/oper2.png)<br>
 ### 配置中的“远程ip”为“访问点”对应内网中的某台主机ip（localhost或127.0.0.1代表内网server端所在机器本身）
-![operator](https://github.com/lazy-luo/smarGate/blob/master/res/oper3.png)<br>
+![operator](https://github.com/tmallgg/smarGate/blob/master/res/oper3.png)<br>
 ### 9、电脑或手机可以直接访问手机客户端设置的服务（如ssh、http等）<br>
 ## 补充说明:<br>
 * 所有版本已经打包了依赖，开箱即用.<br>
@@ -183,11 +183,11 @@
    >> A：v0.27版本Android app加入了“服务端模式”的支持。<br>
 * Q: 客户端不同颜色表示啥意思？<br>
    >> A:ipv4下P2P标识为：<br>
-   ![ipv4 p2p](https://github.com/lazy-luo/smarGate/blob/master/res/ipv4p2p.png)<br>
+   ![ipv4 p2p](https://github.com/tmallgg/smarGate/blob/master/res/ipv4p2p.png)<br>
    >> A:ipv6下P2P标识为：<br>
-   ![ipv6 p2p](https://github.com/lazy-luo/smarGate/blob/master/res/ipv6p2p.png)<br>
+   ![ipv6 p2p](https://github.com/tmallgg/smarGate/blob/master/res/ipv6p2p.png)<br>
    >> A:自定义路由标识为：<br>
-   ![userdefineproxyer p2p](https://github.com/lazy-luo/smarGate/blob/master/res/userdefineproxyer.png)<br>
+   ![userdefineproxyer p2p](https://github.com/tmallgg/smarGate/blob/master/res/userdefineproxyer.png)<br>
    
 ## 最佳实践<br>  
 * 以下为推荐使用的最佳实践，供参考：<br> 
@@ -206,7 +206,7 @@ ps：捐赠建议附上注册用户名<br>
 <summary>
 	<mark><font size=5 color=darkred>微信捐赠</font></mark>
 </summary>
-<img src="https://github.com/lazy-luo/smarGate/blob/master/res/donation.png"/>
+<img src="https://github.com/tmallgg/smarGate/blob/master/res/donation.png"/>
 </details>
 
 ## 附录<br>  
