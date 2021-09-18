@@ -154,7 +154,7 @@
   >> 1、用android手机浏览器打开 https://github.com/tmallgg/smarGate/raw/master/app-release.apk <br>
   >> 2、弹出框中下载安装 <br>
   >> 网盘链接为最新测试版本，github上版本稍有滞后 <br>
-  >> 附网盘下载地址： 链接: https://pan.baidu.com/s/1VfMDVrB-odd7FmCTMgZd1A 提取码: yab3 <br>
+  >> 附网盘下载地址： 链接: https://pan.baidu.com/s/1VfMDVrB-odd7FmCTMgZd1A <br>
   >> gitee地址（速度快些，不会有图片无法显示问题）：https://gitee.com/tmallgg/smarGate <br>
   >> 如有需要请添加微信：ws_lzy008 注明：smarGate ，视情况组建技术讨论群<br>
 * Q：需要访问家中局域网多台设备，是否每台都需要安装服务端？<br>
